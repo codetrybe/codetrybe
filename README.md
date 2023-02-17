@@ -10,6 +10,8 @@ You may contact them if you want to know more about **CodeTrybe** or
 - [DrkGaphar](https://github.com/Abiodun-Shittu)
 - [Samfrodo](https://github.com/Samfrodo9)
 - [Naheemah](https://github.com/NaheemahBello)
+
+You may as well subscribe to [CodeTrybe YouTube Channel](https://youtube.com/@codetrybe) where we upload video recordings of our PLD sessions and some guides on how to solve certain problems, and [Topman's YouTube Channel](https://youtube.com/@tpauldike), where he briefly simplifies the solution to certain problems in a very insightful manner.
                                                                                                                                         
 ----
 ###### Welcome to our world
